@@ -26,7 +26,6 @@ class Solution {
             } else if (target > nums[mid]) {
                 start = mid + 1;
             } else {
-                //potential ans found
                 ans = mid;
                 if(findStartIndex){
                     end = mid-1;
