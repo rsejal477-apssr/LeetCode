@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rsejal477-apssr/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/rsejal477-apssr/LeetCode/tree/master/0066-plus-one) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rsejal477-apssr/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Array
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rsejal477-apssr/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0066-plus-one](https://github.com/rsejal477-apssr/LeetCode/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/rsejal477-apssr/LeetCode/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/rsejal477-apssr/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rsejal477-apssr/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
