@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/rsejal477-apssr/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/rsejal477-apssr/LeetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/rsejal477-apssr/LeetCode/tree/master/0070-climbing-stairs) |
 | [0989-add-to-array-form-of-integer](https://github.com/rsejal477-apssr/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rsejal477-apssr/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/rsejal477-apssr/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rsejal477-apssr/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/rsejal477-apssr/LeetCode/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/rsejal477-apssr/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/rsejal477-apssr/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rsejal477-apssr/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
