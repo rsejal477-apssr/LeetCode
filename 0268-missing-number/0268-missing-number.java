@@ -1,16 +1,31 @@
 class Solution {
     public int missingNumber(int[] nums) {
+         int i = 0;
+        while(i<nums.length){
+            int correct = nums[i];
+            if(nums[i] < nums.length && nums[i] != nums[correct]){
+                swap(nums,i,correct);
 
-        int n = nums.length;
-
-        int expectedSum = n * (n + 1) / 2;
-
-        int actualSum = 0;
-
-        for (int num : nums) {
-            actualSum += num;
+            } else {
+                i++;
+            }
         }
+        // search for first missing number
+        for (int index = 0; index < nums.length; index++) {
+            if (nums[index] != index) {
+                return index;
+            }
 
-        return expectedSum - actualSum;
+        }
+        // case2
+        return nums.length;
+                
+    }
+     void swap(int[] nums,int first,int second){
+        int temp = nums[first];
+        nums[first] = nums[second];
+        nums[second] = temp;
+
+        
     }
 }
