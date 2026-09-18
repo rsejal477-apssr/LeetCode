@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/rsejal477-apssr/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1732-find-the-highest-altitude](https://github.com/rsejal477-apssr/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/rsejal477-apssr/LeetCode/tree/master/1773-count-items-matching-a-rule) |
+| [1929-concatenation-of-array](https://github.com/rsejal477-apssr/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/rsejal477-apssr/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
+| [1929-concatenation-of-array](https://github.com/rsejal477-apssr/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Ternary Search
 |  |
 | ------- |
