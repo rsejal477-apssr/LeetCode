@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/rsejal477-apssr/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/rsejal477-apssr/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1539-kth-missing-positive-number](https://github.com/rsejal477-apssr/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rsejal477-apssr/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1672-richest-customer-wealth](https://github.com/rsejal477-apssr/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/rsejal477-apssr/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/rsejal477-apssr/LeetCode/tree/master/1773-count-items-matching-a-rule) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rsejal477-apssr/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rsejal477-apssr/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/rsejal477-apssr/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rsejal477-apssr/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Counting Sort
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/rsejal477-apssr/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rsejal477-apssr/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/rsejal477-apssr/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rsejal477-apssr/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Simulation
 |  |
 | ------- |
