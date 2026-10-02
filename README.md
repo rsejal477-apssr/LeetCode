@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/rsejal477-apssr/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rsejal477-apssr/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/rsejal477-apssr/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1528-shuffle-string](https://github.com/rsejal477-apssr/LeetCode/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/rsejal477-apssr/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/rsejal477-apssr/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1672-richest-customer-wealth](https://github.com/rsejal477-apssr/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/rsejal477-apssr/LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/rsejal477-apssr/LeetCode/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/rsejal477-apssr/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/rsejal477-apssr/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rsejal477-apssr/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
