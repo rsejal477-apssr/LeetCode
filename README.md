@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/rsejal477-apssr/LeetCode/tree/master/0058-length-of-last-word) |
 | [1108-defanging-an-ip-address](https://github.com/rsejal477-apssr/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/rsejal477-apssr/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rsejal477-apssr/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
