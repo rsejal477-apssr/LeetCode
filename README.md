@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/rsejal477-apssr/LeetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/rsejal477-apssr/LeetCode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rsejal477-apssr/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0925-long-pressed-name](https://github.com/rsejal477-apssr/LeetCode/tree/master/0925-long-pressed-name) |
 | [1108-defanging-an-ip-address](https://github.com/rsejal477-apssr/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/rsejal477-apssr/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rsejal477-apssr/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rsejal477-apssr/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rsejal477-apssr/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rsejal477-apssr/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0925-long-pressed-name](https://github.com/rsejal477-apssr/LeetCode/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/rsejal477-apssr/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rsejal477-apssr/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
