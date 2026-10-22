@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rsejal477-apssr/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rsejal477-apssr/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/rsejal477-apssr/LeetCode/tree/master/0867-transpose-matrix) |
+| [0881-boats-to-save-people](https://github.com/rsejal477-apssr/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/rsejal477-apssr/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/rsejal477-apssr/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/rsejal477-apssr/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/rsejal477-apssr/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rsejal477-apssr/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/rsejal477-apssr/LeetCode/tree/master/0645-set-mismatch) |
+| [0881-boats-to-save-people](https://github.com/rsejal477-apssr/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/rsejal477-apssr/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/rsejal477-apssr/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rsejal477-apssr/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/rsejal477-apssr/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0881-boats-to-save-people](https://github.com/rsejal477-apssr/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/rsejal477-apssr/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## String
 |  |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rsejal477-apssr/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rsejal477-apssr/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rsejal477-apssr/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0881-boats-to-save-people](https://github.com/rsejal477-apssr/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0925-long-pressed-name](https://github.com/rsejal477-apssr/LeetCode/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/rsejal477-apssr/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rsejal477-apssr/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -242,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/rsejal477-apssr/LeetCode/tree/master/0509-fibonacci-number) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/rsejal477-apssr/LeetCode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
