@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/rsejal477-apssr/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rsejal477-apssr/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rsejal477-apssr/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2090-k-radius-subarray-averages](https://github.com/rsejal477-apssr/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 ## Hash Table
 |  |
 | ------- |
@@ -255,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/rsejal477-apssr/LeetCode/tree/master/0881-boats-to-save-people) |
+## Sliding Window
+|  |
+| ------- |
+| [2090-k-radius-subarray-averages](https://github.com/rsejal477-apssr/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 <!---LeetCode Topics End-->
