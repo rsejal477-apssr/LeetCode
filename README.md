@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rsejal477-apssr/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/rsejal477-apssr/LeetCode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/rsejal477-apssr/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rsejal477-apssr/LeetCode/tree/master/0268-missing-number) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rsejal477-apssr/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/rsejal477-apssr/LeetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/rsejal477-apssr/LeetCode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rsejal477-apssr/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rsejal477-apssr/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rsejal477-apssr/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2090-k-radius-subarray-averages](https://github.com/rsejal477-apssr/LeetCode/tree/master/2090-k-radius-subarray-averages) |
 <!---LeetCode Topics End-->
