@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/rsejal477-apssr/LeetCode/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/rsejal477-apssr/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/rsejal477-apssr/LeetCode/tree/master/0888-fair-candy-swap) |
+| [0904-fruit-into-baskets](https://github.com/rsejal477-apssr/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/rsejal477-apssr/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/rsejal477-apssr/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/rsejal477-apssr/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rsejal477-apssr/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/rsejal477-apssr/LeetCode/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/rsejal477-apssr/LeetCode/tree/master/0888-fair-candy-swap) |
+| [0904-fruit-into-baskets](https://github.com/rsejal477-apssr/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rsejal477-apssr/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rsejal477-apssr/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rsejal477-apssr/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rsejal477-apssr/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/rsejal477-apssr/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/rsejal477-apssr/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rsejal477-apssr/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2090-k-radius-subarray-averages](https://github.com/rsejal477-apssr/LeetCode/tree/master/2090-k-radius-subarray-averages) |
